@@ -13,6 +13,7 @@
 		20A16BCB1E4070110034AF5D /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 20A16BC91E4070110034AF5D /* Main.storyboard */; };
 		20A16BCD1E4070110034AF5D /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 20A16BCC1E4070110034AF5D /* Assets.xcassets */; };
 		20A16BD01E4070110034AF5D /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 20A16BCE1E4070110034AF5D /* LaunchScreen.storyboard */; };
+		20A16BD81E4071870034AF5D /* shoppinglist icon.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 20A16BD71E4071870034AF5D /* shoppinglist icon.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,7 @@
 		20A16BCC1E4070110034AF5D /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		20A16BCF1E4070110034AF5D /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		20A16BD11E4070110034AF5D /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		20A16BD71E4071870034AF5D /* shoppinglist icon.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "shoppinglist icon.jpg"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +60,7 @@
 		20A16BBF1E4070110034AF5D /* obj-c_2_1 */ = {
 			isa = PBXGroup;
 			children = (
+				20A16BD71E4071870034AF5D /* shoppinglist icon.jpg */,
 				20A16BC31E4070110034AF5D /* AppDelegate.h */,
 				20A16BC41E4070110034AF5D /* AppDelegate.m */,
 				20A16BC61E4070110034AF5D /* ViewController.h */,
@@ -139,6 +142,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				20A16BD01E4070110034AF5D /* LaunchScreen.storyboard in Resources */,
+				20A16BD81E4071870034AF5D /* shoppinglist icon.jpg in Resources */,
 				20A16BCD1E4070110034AF5D /* Assets.xcassets in Resources */,
 				20A16BCB1E4070110034AF5D /* Main.storyboard in Resources */,
 			);
@@ -273,6 +277,7 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				DEVELOPMENT_TEAM = E34X2X5D2K;
 				INFOPLIST_FILE = "obj-c_2_1/Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "nkarataev.obj-c-2-1";
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -285,6 +290,7 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				DEVELOPMENT_TEAM = E34X2X5D2K;
 				INFOPLIST_FILE = "obj-c_2_1/Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "nkarataev.obj-c-2-1";
 				PRODUCT_NAME = "$(TARGET_NAME)";
