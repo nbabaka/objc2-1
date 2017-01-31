@@ -1,0 +1,17 @@
+PODS:
+  - Bolts (1.8.4):
+    - Bolts/AppLinks (= 1.8.4)
+    - Bolts/Tasks (= 1.8.4)
+  - Bolts/AppLinks (1.8.4):
+    - Bolts/Tasks
+  - Bolts/Tasks (1.8.4)
+
+DEPENDENCIES:
+  - Bolts (~> 1.8)
+
+SPEC CHECKSUMS:
+  Bolts: 8a7995239dbe724f9cba2248b766d48b7ebdd322
+
+PODFILE CHECKSUM: 48cd75ccfcc0f637e7391c848f58e6020bc19b4a
+
+COCOAPODS: 1.1.1

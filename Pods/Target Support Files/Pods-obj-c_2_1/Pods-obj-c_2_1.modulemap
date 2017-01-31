@@ -1,0 +1,6 @@
+framework module Pods_obj_c_2_1 {
+  umbrella header "Pods-obj-c_2_1-umbrella.h"
+
+  export *
+  module * { export * }
+}

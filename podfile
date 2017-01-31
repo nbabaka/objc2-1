@@ -1,0 +1,8 @@
+platform :ios, '9.0'
+
+target 'obj-c_2_1' do
+  use_frameworks!
+  pod 'Bolts', '~> 1.8' 
+end
+
+
